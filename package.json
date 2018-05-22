@@ -26,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/AEJester/r-grab/issues"
   },
-  "homepage": "https://github.com/AEJester/r-grab#readme"
+  "homepage": "https://github.com/AEJester/r-grab#readme",
+  "preferGlobal": true
 }

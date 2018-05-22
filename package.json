@@ -1,6 +1,6 @@
 {
   "name": "r-grab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI that allows you to download reddit media.",
   "main": "index.js",
   "dependencies": {
